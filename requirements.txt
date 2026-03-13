@@ -1,8 +1,6 @@
-```
 pandas
 plotly
 streamlit
 scikit-learn
 anthropic
 openpyxl
-```
